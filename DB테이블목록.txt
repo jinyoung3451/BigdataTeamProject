@@ -1,0 +1,23 @@
+- 스키마 이름 -
+bigdata_accumulate
+bigdata_attendance
+bigdata_average_entry
+bigdata_weather_distribution
+bigdata_average_time
+bigdata_comparative
+bigdata_average_time_m
+bigdata_attendance rate_change
+bigdata_attendance kind_number
+bigdata_weather_distribution_total
+=====================
+- 완료 데이터 -
+월별지조결누적
+월별출결
+월별평균입실
+날씨와출결현황
+월별평균소요시간
+비교분석데이터
+요일별평균소요시간
+출석률변화그래프
+출결변화율그래프
+날시별비정상출결총합
